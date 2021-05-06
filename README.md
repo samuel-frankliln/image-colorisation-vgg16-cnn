@@ -8,5 +8,6 @@
 
 
 `````````````````````
-Still working on it .
+Still working on it .Results up until now
+will increase numbre of epoch for better result.
 ````````````
